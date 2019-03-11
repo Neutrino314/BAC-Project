@@ -1,0 +1,26 @@
+Presentation------------
+
+Points:
+	
+#0 introduction to video games (yeah I know)
+#1 graphics then (spritemaps and memory management)
+#2 hardware/ sofware then (assembler & atari-esque consoles)
+
+#3 what changed? (moore's law)
+#3.1 hardware (chips)
+#3.2 software (high level programming languages)
+
+
+#4 game engines 1 (low poly doom engine)
+#5 game engines 2 (hardware support)
+#6 game engines 3 (unity & godot)
+#7 game engines 4 (Duo game engineception!)
+
+#8 development timelapse of recreating an old video game like pong (video support?)
+
+#9 any questions (leave link to github)
+
+further explanation:
+
+#0:
+
